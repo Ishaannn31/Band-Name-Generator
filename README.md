@@ -5,8 +5,8 @@
 
 <h2>How to try it?</h2>
 <ul>
-  <h3>Clone it</h3>
-  <h3>Run npm i</h3>
-  <h3>Nodemon index.js file</h3>
-  <h3>There you go!</h3>
+  <li>Clone it</li>
+  <li>Install node modules with npm i</li>
+  <li>Run : Nodemon index.js file</li>
+  <li>There you go!</li>
 </ul>
